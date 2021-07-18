@@ -1,5 +1,6 @@
 module.exports = {
     dir: {
+        src:"_site",
         output: "docs"
     }
 };
